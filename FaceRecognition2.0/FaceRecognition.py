@@ -1,5 +1,4 @@
 import cv2
-from ObjectIdentifier import OI
 from numpy import array
 
 def face_recognition():
